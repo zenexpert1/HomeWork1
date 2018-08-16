@@ -33,3 +33,5 @@ public class Ship extends Transport implements CargoAuto,PassangersAuto{
 }
 
 
+
+

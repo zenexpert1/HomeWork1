@@ -20,3 +20,5 @@ public class Plane extends Transport implements PassangersAuto,CargoAuto {
         return "Самолёт полетел с пассажирами";
     }
 }
+
+

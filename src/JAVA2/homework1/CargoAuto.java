@@ -5,3 +5,4 @@ public interface CargoAuto {
         return "автомобиль везёт груз";
     }
 }
+

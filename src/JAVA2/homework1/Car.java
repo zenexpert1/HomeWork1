@@ -20,5 +20,4 @@ public class Car extends Transport implements PassangersAuto,CargoAuto {
         return "автомобиль везёт пассажиров";
     }
 
-
 }

@@ -11,6 +11,7 @@ public abstract class Transport {
     private int length;
     private int height;
 
+
     Transport(int speed, int width, int length, int height) {
         this.speed = speed;
         this.width = width;
